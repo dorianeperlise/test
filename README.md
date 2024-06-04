@@ -1,1 +1,2 @@
-This is how i am practicing my Git
+This is how i am practicing my Git.
+We are the future DevOps Engineer
